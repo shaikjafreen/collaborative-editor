@@ -94,9 +94,4 @@ Check out the official React + TypeScript template for an advanced setup.
 
  Add deployment config for GitHub Pages or Netlify
 
-👩‍💻 Author
-Shaik Syed Jafreen
-B.Tech – Computer Science & Technology
-MITS College, Rayachoty
-
-script-eslint`](https://typescript-eslint.io) in your project.
+![Image](https://github.com/user-attachments/assets/83c3f130-f3bf-4e10-81c1-87c264325be4)
